@@ -1,0 +1,10 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Pacman\Pacman\obj\Debug\Pacman.pdb

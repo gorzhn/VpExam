@@ -1,0 +1,11 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\bin\Debug\ConferencePapers.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.AddConference.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\ConferencePapers\ConferencePapers\obj\Debug\ConferencePapers.pdb

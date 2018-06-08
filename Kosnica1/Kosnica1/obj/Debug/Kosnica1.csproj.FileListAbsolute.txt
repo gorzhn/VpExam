@@ -1,0 +1,11 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\bin\Debug\Kosnica1.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\bin\Debug\Kosnica1.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\bin\Debug\Kosnica1.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Kosnica1\Kosnica1\obj\Debug\Kosnica1.Form2.resources

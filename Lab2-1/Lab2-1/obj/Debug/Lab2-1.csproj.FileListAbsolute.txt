@@ -1,0 +1,10 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\bin\Debug\Lab2-1.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\bin\Debug\Lab2-1.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\bin\Debug\Lab2-1.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2-1.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2_1.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2_1.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2-1.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2-1.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2-1.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\Lab2-1\Lab2-1\obj\Debug\Lab2-1.pdb

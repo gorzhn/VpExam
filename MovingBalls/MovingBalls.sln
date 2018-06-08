@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovingBalls", "MovingBalls\MovingBalls.csproj", "{86D9F363-D4A5-48A6-A810-8A8F66C57522}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86D9F363-D4A5-48A6-A810-8A8F66C57522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D9F363-D4A5-48A6-A810-8A8F66C57522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D9F363-D4A5-48A6-A810-8A8F66C57522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D9F363-D4A5-48A6-A810-8A8F66C57522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B396DE37-5371-4C93-B98E-3BD4E6EBECCA}
+	EndGlobalSection
+EndGlobal

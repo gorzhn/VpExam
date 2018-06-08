@@ -1,0 +1,12 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.AddAerodrom.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\bin\Debug\PrimerKolokvium.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\bin\Debug\PrimerKolokvium.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\bin\Debug\PrimerKolokvium.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PrimerKolokvium\PrimerKolokvium\obj\Debug\PrimerKolokvium.NewDestination.resources
