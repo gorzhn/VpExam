@@ -1,0 +1,10 @@
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\bin\Debug\BlowingBalloons.exe.config
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\bin\Debug\BlowingBalloons.exe
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\bin\Debug\BlowingBalloons.pdb
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBaloons.csprojAssemblyReference.cache
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBalloons.Form1.resources
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBalloons.Properties.Resources.resources
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBaloons.csproj.GenerateResource.cache
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBaloons.csproj.CoreCompileInputs.cache
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBalloons.exe
+c:\users\gorjan\source\repos\BlowingBalloons\BlowingBalloons\obj\Debug\BlowingBalloons.pdb
