@@ -1,0 +1,10 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\bin\Debug\PulsingCircles.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\bin\Debug\PulsingCircles.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\bin\Debug\PulsingCircles.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\PulsingCircles\PulsingCircles\obj\Debug\PulsingCircles.pdb
