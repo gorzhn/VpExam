@@ -1,0 +1,10 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\bin\Debug\TickingPies.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\bin\Debug\TickingPies.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\bin\Debug\TickingPies.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\TickingPies\TickingPies\obj\Debug\TickingPies.pdb
