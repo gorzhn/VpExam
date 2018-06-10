@@ -1,0 +1,11 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\bin\Debug\F1Race.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\bin\Debug\F1Race.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\bin\Debug\F1Race.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.AddDriver.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\F1Race\F1Race\obj\Debug\F1Race.pdb

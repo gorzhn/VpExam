@@ -1,0 +1,10 @@
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\bin\Debug\SlidingBalls-Aud.exe.config
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\bin\Debug\SlidingBalls-Aud.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\bin\Debug\SlidingBalls-Aud.pdb
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls-Aud.csprojAssemblyReference.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls_Aud.Form1.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls_Aud.Properties.Resources.resources
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls-Aud.csproj.GenerateResource.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls-Aud.csproj.CoreCompileInputs.cache
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls-Aud.exe
+C:\Users\Gorjan\Desktop\Семестар 4\Визуелно Програмирање\Ispit\SlidingBalls-Aud\SlidingBalls-Aud\obj\Debug\SlidingBalls-Aud.pdb
